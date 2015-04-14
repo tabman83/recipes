@@ -1,5 +1,8 @@
-Automatically set the active class for the currently selected Bootstrap menu item
+active-class
 ====
+Automatically set the active class for the currently selected Bootstrap menu item
+
+> javascript, AngularJS, directive
 
 HTML
 ---
