@@ -1,4 +1,4 @@
-# snippets
+# recipes
 A collection of useful snippets gathered and  over the years.
 
 * [active-class.md](active-class.md)  
