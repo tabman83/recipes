@@ -7,7 +7,9 @@ sudo apt-get install sshfs
 ### Instructions
 
 Uncomment the following line in `/etc/fuse.conf`
-```#user_allow_other```
+```
+#user_allow_other
+```
 
 Create the folder
 ```
