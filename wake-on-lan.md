@@ -2,7 +2,7 @@
 
 Steps:
 
-* `sudo apt-get install ethtool`
+* `sudo apt-get install wakeonlan`
 * `wakeonlan your_mac`
 
 Credits:
