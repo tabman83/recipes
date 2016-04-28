@@ -1,6 +1,8 @@
 raspberry-pi-static-address
 ====
-How to set a static IP address on the Raspberry Pi
+How to set a static IP address on the Raspberry Pi.
+
+This is valid from Raspbian Jessie (v. 8) on.
 
 ```
 sudo nano /etc/dhcpcd.conf
